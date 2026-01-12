@@ -1,0 +1,7 @@
+{
+  "name": "PersonaShift AI",
+  "description": "Visualize yourself in any career. Upload a photo and explore AI-generated professional personas across multiple job fields with a high-fidelity, snap-scroll interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
